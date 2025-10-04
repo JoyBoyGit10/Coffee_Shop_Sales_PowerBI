@@ -6,3 +6,6 @@
    City. It highlights monthly sales trends, percentage MoM growth, sales variations, daily and hourly patterns, and comparative performance across all three stores, 
    offering comprehensive analytical insights.
 
+2. Demo & Screenshots
+   
+
