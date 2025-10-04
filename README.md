@@ -8,6 +8,6 @@
 
 2. Demo & Screenshots
 
-   Img: https://github.com/JoyBoyGit10/Coffee_Shop_Sales_PowerBI/blob/main/Dashboard_Image.png
+   Img: [https://github.com/JoyBoyGit10/Coffee_Shop_Sales_PowerBI/blob/main/Dashboard_Image.png](https://github.com/JoyBoyGit10/Coffee_Shop_Sales_PowerBI/blob/main/Dashboard_Image.png)
    
 
