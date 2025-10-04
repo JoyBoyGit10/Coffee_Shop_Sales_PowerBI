@@ -9,7 +9,7 @@
 ## 2. Demo & Screenshots
 
    ### Dashboard Image
-   <img width="1206" height="735" alt="Image" src="https://github.com/user-attachments/assets/70024951-ec0d-48c3-ad88-755603b29e86" />
+   <img width="1202" height="731" alt="Image" src="https://github.com/user-attachments/assets/567f69a8-1a4f-4215-9de0-86c3af97db6f" />
    
    ### Dashboard Demo
    
