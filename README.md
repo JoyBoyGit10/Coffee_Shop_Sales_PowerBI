@@ -8,5 +8,5 @@
 
 2. Demo & Screenshots
 
-   Img: <img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/608184bf-66f4-40c5-b40c-67303e3fcf83" />
+   Img: <img width="1206" height="735" alt="Image" src="https://github.com/user-attachments/assets/70024951-ec0d-48c3-ad88-755603b29e86" />
 
